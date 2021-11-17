@@ -1,0 +1,14 @@
+/* ./src/index.css */
+
+/*! @import */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color: #16b9ff;
+}
+
+.text-primary-color {
+    color: var(--primary-color)
+}

@@ -1,0 +1,9 @@
+.title {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  text-align: center;
+  font-size: 19.3333px;
+  line-height: 23px;
+  letter-spacing: 0.0115385em;
+}
